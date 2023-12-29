@@ -1,4 +1,4 @@
-**Table 3: STREAM_HACKATHON.STREAMLIT.REGION** (Stores region information)
+**Table 3: COPY_SAMPLE.TPCH_SF1.REGION** (Stores region information)
 
 This table contains information about regions.
 

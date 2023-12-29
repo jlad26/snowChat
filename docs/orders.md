@@ -1,4 +1,4 @@
-**Table 4: STREAM_HACKATHON.STREAMLIT.ORDERS** (Stores order information)
+**Table 4: COPY_SAMPLE.TPCH_SF1.ORDERS** (Stores order information)
 
 This table contains information about orders placed by customers, including the date and total amount of each order.
 
